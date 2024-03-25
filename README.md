@@ -1,7 +1,8 @@
 # vkTestTaskTagilov
  Приложение погоды, используется OpenWeatherMap API
 
-<img width="300" alt="image" src="https://github.com/vtagilov/vkTestTaskTagilov/assets/44909454/967f0d0c-1be3-42fa-8b9a-a5ab28771357"><img width="300" alt="image" src="https://github.com/vtagilov/vkTestTaskTagilov/assets/44909454/12e8501e-13f7-4c3d-9671-a49d4ddfd01c">
+<img width="300" alt="image" src="https://github.com/vtagilov/vkTestTaskTagilov/assets/44909454/15a71023-2d79-43a5-b3ab-2c5322ecb3b8"><img width="300" alt="image" src="https://github.com/vtagilov/vkTestTaskTagilov/assets/44909454/2b46d5f1-3134-4c14-a97d-272453259900">
+
 
  
 Технологии: Swift, UIKit, MVVM
